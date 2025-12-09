@@ -8,7 +8,6 @@ app.secret_key = 'your_secret_key'
 
 
 # User database (For simplicity, storing in a JSON file)
-# User database (For simplicity, storing in a JSON file)
 USER_FILE = "users.json"
 
 # Load users
