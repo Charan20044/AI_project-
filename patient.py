@@ -7,6 +7,8 @@ import streamlit as st
 
 PATIENT_DATA_FILE = "patient_data.json"
 
+# this is new comment.
+
 # The average body temperature is 98.6 F (37 C). But normal body temperature can range between 97 F (36.1 C) and 99 F (37.2 C)
 
 # ideal blood pressure is considered to be between 90/60mmHg and 120/80mmHg. high blood pressure is considered to be 140/90mmHg or higher. low blood pressure is considered to be below 90/60mmHg
