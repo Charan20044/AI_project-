@@ -1,0 +1,11 @@
+{
+    "body_temperature_celcius": 36.8,
+    "blood_pressure_systolic_mm_hg": 120,
+    "blood_pressure_diastolic_mm_hg": 75.57,
+    "resting_heart_rate_bpm": 75,
+    "respiratory_rate_bpm": 16,
+    "blood_glucose_mg_dL": 90,
+    "blood_saturation": 247.0,
+    "sodium_rate": 140.43,
+    "potassium_rate": 4.95
+}
